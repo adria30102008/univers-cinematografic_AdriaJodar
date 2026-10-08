@@ -19,3 +19,13 @@
 - Poder/habilitat: Habilitats físiques millorades i tecnologia avançada.
 - Origen: T'Challa és el rei de Wakanda.
 - Funció: Protector de Wakanda i aliat dels Avengers.
+
+## Thor
+- Poder/habilitat: Control del llamp i gran força.
+- Origen: Déu d'Asgard.
+- Funció: Combatent principal.
+
+## Doctor Strange
+- Poder/habilitat: Màgia i control de les arts místiques.
+- Origen: Antic cirurgià que aprèn arts màgiques.
+- Funció: Protegir la realitat.
