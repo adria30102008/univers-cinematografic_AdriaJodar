@@ -29,3 +29,6 @@
 - Poder/habilitat: Màgia i control de les arts místiques.
 - Origen: Antic cirurgià que aprèn arts màgiques.
 - Funció: Protegir la realitat.
+
+## Relacions
+Iron Man i Captain America desenvolupen una relació de respecte mutu després de superar les seves diferències.

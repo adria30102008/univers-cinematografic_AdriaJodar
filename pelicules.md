@@ -20,3 +20,10 @@
 - Escenari: La Terra i l'espai.
 - Argument: Els Avengers han d'unir totes les seves forces per evitar que Thanos controli les Gemmes de l'Infinit.
 - Capítol relacionat: Capítol 3 i Capítol 4.
+
+## 4. El nou univers
+- Protagonistes: Els Avengers.
+- Antagonista: Una nova amenaça desconeguda.
+- Escenari: La Terra.
+- Argument: Després de la batalla final, els herois descobreixen que una nova amenaça està començant a aparèixer.
+- Capítol relacionat: Capítol 5.
